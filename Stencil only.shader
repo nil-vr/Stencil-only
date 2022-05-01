@@ -1,3 +1,9 @@
+// To the extent possible under law, the person who associated CC0 with
+// Stencil only has waived all copyright and related or neighboring rights
+// to Stencil only.
+//
+// See <http://creativecommons.org/publicdomain/zero/1.0/>.
+
 Shader "Stencil only"
 {
     Properties
